@@ -1,12 +1,11 @@
 import './App.css'
-import FruitList from './Components/List/FruitList'
-import Services from './Components/Services'
+import Produk from './Components/Produk'
+
 
 function App() {
   return (
     <>
-      {/* <FruitList /> */}
-      <Services />
+      <Produk />
     </>
   )
 }
